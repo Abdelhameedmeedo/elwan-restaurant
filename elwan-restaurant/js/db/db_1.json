@@ -1,0 +1,347 @@
+{
+    "meals":[
+        {
+            "name":"طاجن خضار مشكل باللحمة",
+            "price":"70 جنيه",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/meals_1.jpg?alt=media&token=133d8c0f-bfc0-42f0-b097-725eebe18c80",
+            "free":"السلطة"
+        },
+        {
+            "name":"فتة شاورما فراخ",
+            "price":"55 جنيه",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/meals_2.jpg?alt=media&token=4b91e7dc-8e6c-4473-a271-2314f37fa205",
+            "free":"السلطة"
+        },
+        {
+            "name":"فتة موزة ضاني",
+            "price":"110 جنيه",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/meals_3.jpg?alt=media&token=732b3d1e-9822-41f1-90df-cb233d6d2709",
+            "free":"السلطة"
+        },
+        {
+            "name":"وجبة استيك باللحمة",
+            "price":"95 جنيه",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/meals_4.jpg?alt=media&token=2d9b2429-e376-4076-ab47-0b05dba95a0f",
+            "free":"السلطة"
+        },
+        {
+            "name":"وجية كيدز للأطفال",
+            "price":"35 جنيه",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/meals_5.jpg?alt=media&token=bf97ffd7-642c-43c6-9852-55809b5770b1",
+            "free":"السلطة"
+        }
+    ],
+
+"pizza":[
+        {
+            "normal":[
+                {
+                    "name":"بيتزا فراخ باربيكو",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_1.jpg?alt=media&token=16d92d65-5794-4a3f-8f2d-e6c6efa8c44d",
+                    "volum":[
+                        {
+                            "L":"50 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"40 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"30 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                },
+                {
+                    "name":"بيتزا سوسيس",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_2.jpg?alt=media&token=9be7887d-dccf-4cce-8aad-f829097d4f15",
+                    "volum":[
+                        {
+                            "L":"45 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"35 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"25 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                },
+                {
+                    "name":"بيتزا استافت كراست",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_3.jpg?alt=media&token=004ae206-5cb2-462e-8b5b-151f219525aa",
+                    "volum":[
+                        {
+                            "L":"60 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"50 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"35 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mini":[
+                {
+                    "name":"فتة مكس",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_mix_mini.jpg?alt=media&token=df102229-2e5a-4e00-91b9-4e23830c4d72",
+                    "price":"65 جنيه"
+                },
+                {
+                    "name":"فتة كفتة",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_2_mini.jpg?alt=media&token=3bc35008-5afa-4d6d-ab8f-a0793d56254c",
+                    "price":"60 جنيه"
+                }
+            ]
+        },
+        {
+            "meat_mix":[
+                {
+                    "name":"بيتزا استافت كراست",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_meat_mafroom.jpg?alt=media&token=e1691b72-0158-4ab5-af23-477521b8f236",
+                    "volum":[
+                        {
+                            "L":"55 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"45 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"35 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cheese_mix":[
+                {
+                    "name":"بيتزا مكس تشيز",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_mix_cheese.jpg?alt=media&token=42d47cd1-6e6b-40d2-8729-6bb13860e6d9",
+                    "volum":[
+                        {
+                            "L":"45 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"35 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"25 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                },
+                {
+                    "name":"بيتزا لحم مفروم",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_meat_mafroom.jpg?alt=media&token=e1691b72-0158-4ab5-af23-477521b8f236",
+                    "volum":[
+                        {
+                            "L":"55 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"45 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"30 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                },
+                {
+                    "name":"بيتزا سي فود(بحري)",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_sea_food.jpg?alt=media&token=e8b728e9-0ec8-4217-86e2-d6c4bf85be67",
+                    "volum":[
+                        {
+                            "L":"70 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"60 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"40 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                },
+                {
+                    "name":"بيتزا استربس دجاج",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_strips_cheken.jpg?alt=media&token=8f68c1b3-6eef-426f-a354-00279a8bafaa",
+                    "volum":[
+                        {
+                            "L":"50 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"40 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"30 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                },
+                {
+                    "name":"بيتزا شاورما فراخ",
+                    "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/pizza_shaorma_cheken.jpg?alt=media&token=87ead4c7-2dde-4702-a1d7-37cd1d6bd9d2",
+                    "volum":[
+                        {
+                            "L":"50 جنيه",
+                            "size":"حجم كبير"
+                        },
+                        {
+                            "M":"35 جنيه",
+                            "size":"حجم متوسط"
+                        },
+                        {
+                            "S":"25 جنيه",
+                            "size":"حجم صغير"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "grilled":[
+        {
+            "name":"كباب ضاني",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_1.jpg?alt=media&token=fff161da-bb36-4306-9d22-a05e03751bff",
+            "price":"270 جنيه"
+        },
+        {
+            "name":"ريش ضاني",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_2.jpg?alt=media&token=59fd5261-fce8-4dc2-96de-399a255cfe33",
+            "price":"290 جنيه"
+        },
+        {
+            "name":"كفتة ضاني",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_3.jpg?alt=media&token=b694288e-99da-44f6-86a4-10cf457f4a1b",
+            "price":"220 جنيه"
+        },
+        {
+            "name":"كفتة دجاج فريش",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_4.jpg?alt=media&token=0b0eabd8-bcf9-49a4-a94a-f91aa86cc8b8",
+            "price":"190 جنيه"
+        },
+        {
+            "name":"طرب ضاني",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_5.jpg?alt=media&token=b4b49ce5-4171-46ea-abd2-dbe934297c96",
+            "price":"240 جنيه"
+        },
+        {
+            "name":"فراخ شيش",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_6.jpg?alt=media&token=41347586-c090-46ff-a54e-82c8f6f82ff5",
+            "price":"125 جنيه"
+        },
+        {
+            "name":"فراخ فحم",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/grilled_7.jpg?alt=media&token=0d0be342-e96d-47c9-a873-2704b4c783b7",
+            "price":"125 جنيه"
+        }
+    ],
+
+    "italian_pasta":[
+        {
+            "name":"مكرونة سي فود",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/italian_1.jpg?alt=media&token=d19af3f9-35b2-4163-b3ab-b9d4d664b51b",
+            "price":"55 جنيه"
+        },
+        {
+            "name":"مكرونة وايت صوص مع دجاج",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/italian_2.jpg?alt=media&token=01fc087e-8171-44bf-a7dc-b223a45de226",
+            "price":"45 جنيه"
+        },
+        {
+            "name":"مكرونة فورنو باستا",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/italian_3.jpg?alt=media&token=9807a8c4-f002-42fb-8c97-846cb982e674",
+            "price":"50 جنيه"
+        },
+        {
+            "name":"مكرونة بنك صوص مع دجاج",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/italian_4.jpg?alt=media&token=32af9bdb-9fc1-41b0-8fb9-d69335561e26",
+            "price":"40 جنيه"
+        },
+        {
+            "name":"أرز بسمتي",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/italian_5.jpg?alt=media&token=2c6a847f-0a3f-4b0d-ba1a-06f4cd0725d3",
+            "price":"13 جنيه"
+        }
+    ],
+
+    "soups":[
+        {
+            "name":"شربة كريمة فراخ",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/soups_1.jpg?alt=media&token=8f730dd1-891b-4539-965d-db6637ab642c",
+            "price":"30 جنيه"
+        },
+        {
+            "name":"شربة لسان عصفور",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/soups_2.jpg?alt=media&token=fed7cb5c-5a42-4703-9335-cded4f670152",
+            "price":"7 جنيه"
+        },
+        {
+            "name":"شربة سي فود كريمة",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/soups_3.jpg?alt=media&token=4e91e2b0-1cf4-4a79-85e2-9a1b6edeaa1b",
+            "price":"40 جنيه"
+        }
+    ],
+
+    "sandwitch":[
+        {
+            "name":"برجر علوان(لحمة)",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/beef_bureger.jpg?alt=media&token=258a05b5-ea27-40a0-8594-496a85d32d53",
+            "price":"35 جنيه"
+        },
+        {
+            "name":"برجر علوان(فراخ)",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/checken%20burger.jpg?alt=media&token=f4067eb7-723a-4dce-a518-e449d2880e94",
+            "price":"25 جنيه"
+        },
+        {
+            "name":"شاورما فراخ طاسة",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/sandwitch_shorma.jpg?alt=media&token=394cb347-7e0f-4741-ac32-e798ff488020",
+            "price":"22 جنيه"
+        },
+        {
+            "name":"حواوشي بلدي",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/sandwitch_hwawshi.jpg?alt=media&token=ebf9c751-9349-46f7-9e8f-4aee7bf6f3c7",
+            "price":"30 جنيه"
+        },
+        {
+            "name":"تاكسز فرايز مكسيكي",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/mexici_taxis.jpg?alt=media&token=56ad7adb-36b5-4a0b-a929-b3770fc8821f",
+            "price":"35 جنيه"
+        },
+        {
+            "name":"'طبق بوم فرايت بطاطس",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/sandwiitch_bomfrait.jpg?alt=media&token=99530a61-20c2-4dde-81d3-3bc9b79973b1",
+            "price":"12 جنيه"
+        },
+        {
+            "name":"سفن دايز كرسبي(مقرمسات)",
+            "img":"https://firebasestorage.googleapis.com/v0/b/restaurant-35bd6.appspot.com/o/snadwitch_7daiz.jpg?alt=media&token=14ee8d9c-839c-4ff6-9a84-fb22c9cbcecc",
+            "price":"10 جنيه"
+        }
+    ]
+ }
